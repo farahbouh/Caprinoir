@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer_Test.unity
+    guid: fd3c3343f5a228f419bd1b8a11d30247
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Village_Scene.unity
+    guid: 02229214413c841428c998ef0b9e09ca
+  - enabled: 1
+    path: Assets/Scenes/Village_Market.unity
+    guid: b4448a3023c0449068a9f22f7a4f97c5
+  - enabled: 1
+    path: Assets/Scenes/Cave_Scene.unity
+    guid: bb983d75ca9d2474abb0d75e8debc47c
+  - enabled: 1
+    path: Assets/Scenes/Cave_etage_1.unity
+    guid: bd64db69ad4ddc345a11f3f1c319d3ee
+  - enabled: 1
+    path: Assets/Scenes/Transition_Farm_Market.unity
+    guid: fd84d7418a32f134a84853e49627798e
+  - enabled: 1
+    path: Assets/Scenes/FarmScenee.unity
+    guid: 313188a9da4114958a5f379b925cfd9c
+  - enabled: 1
+    path: Assets/Scenes/Cave_etage_2.unity
+    guid: 963874c0a0a844c46bd6dc4d925a8bc6
+  - enabled: 1
+    path: Assets/Scenes/Cave_etage_3.unity
+    guid: 542f3ad84dd722849a11fd88800d427b
+  - enabled: 1
+    path: Assets/Scenes/Cave_etage_4.unity
+    guid: 0aed0c7392c600b4f8e67c485ade1d44
+  - enabled: 1
+    path: Assets/Scenes/Cave_etage_5.unity
+    guid: 9b7c94c4b85eaba48a7f15e32decd49a
+  - enabled: 1
+    path: Assets/Scenes/Lake_Scene.unity
+    guid: cb32b5ebe4ee685469327cad5f55731f
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0
