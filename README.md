@@ -86,7 +86,7 @@ Il vous faut [Unity Hub](https://unity.com/download) et l'éditeur Unity **6000.
 git clone https://github.com/farahbouh/Caprinoir.git
 ```
 
-1. Dans Unity Hub : **Add** → **Add project from disk** → sélectionnez le dossier `Caprinoir`.
+1. Dans Unity Hub : **Add** ->  **Add project from disk** -> sélectionnez le dossier `Caprinoir`.
 2. Ouvrez le projet avec la version `6000.3.4f1` (le premier import des assets peut être long).
 3. Ouvrez la scène `Assets/Scenes/Multiplayer_Test.unity` et lancez le mode **Play**.
 4. Cliquez sur **HÉBERGER (Host)** pour créer une partie, ou sur **Rejoindre (Client)** depuis une seconde instance du jeu.
