@@ -21,7 +21,9 @@
 
 ## Le jeu
 
-Caprinoir est un jeu en 2D vue de dessus. On y cultive des légumes à la ferme, on pêche au lac, on commerce au village et on descend dans des grottes (5 étages) peuplées d'ennemis, en solo ou à plusieurs : un joueur héberge la partie, les autres la rejoignent.
+Jeu 2D en Unity combinant gestion de ferme, pêche, progression et exploration de grottes. Le projet a été conçu pour mettre en œuvre un système de gameplay structuré, des mécaniques de progression et de la synchronisation multijoueur.
+
+Le joueur peut cultiver, échanger, combattre et évoluer dans un monde interconnecté, avec une structure de gameplay cohérente entre les différents espaces du jeu.
 
 ---
 
